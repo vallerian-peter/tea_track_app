@@ -1,0 +1,56 @@
+{
+  "@@locale": "en",
+  "appName": "TeaTrack",
+  "appTagline": "From Farmers to Factories",
+  "getStarted": "Get started",
+  "signIn": "Sign In",
+  "logout": "Log out",
+  "next": "Next",
+  "back": "Back",
+  "skip": "Skip",
+  "continueLabel": "Continue",
+  "cancel": "Cancel",
+  "save": "Save",
+  "changeLanguage": "Change language",
+  "chooseLanguage": "What is your preferred language?",
+  "englishLabel": "English",
+  "swahiliLabel": "Kiswahili",
+  "theme": "Theme",
+  "lightMode": "Light",
+  "darkMode": "Dark",
+  "systemMode": "System",
+  "requiredField": "This field is required",
+  "offlineBannerMessage": "You are offline. Changes will sync once connected.",
+  "connectionRestored": "Internet connection restored!",
+  "appVersion": "App Version: {version}",
+  "@appVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "featureOneTitle": "Better\nTea Supply Chain\nManagement",
+  "featureOneBody": "Register farmers, farms and collection centres, and connect AMCOS, transporters and factories in one transparent chain.",
+  "featureTwoTitle": "Same-Day\nMovement to\nthe Factory",
+  "featureTwoBody": "Record weight and moisture for every bag, assign drivers and track each trip until the factory re-weighs and stocks it.",
+  "featureThreeTitle": "Fair Payments\nand Clear\nFarmer Accounts",
+  "featureThreeBody": "Factories pay AMCOS per kilogram, with invoices, balances and input debts deducted automatically from each farmer's account.",
+  "howItWorks": "How it works",
+  "stepDone": "Done",
+  "stepCurrent": "Current",
+  "selectOption": "Select an option",
+  "selectDate": "Select date",
+  "selectCountryCode": "Select country code",
+  "search": "Search...",
+  "pleaseWait": "Please wait...",
+  "nothingHereYet": "Nothing here yet",
+  "welcomeMessage": "Welcome, {name}",
+  "@welcomeMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  }
+}
